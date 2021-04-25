@@ -16,7 +16,7 @@ This spreadsheet is used to evaluate various health insurance plans based on bot
 Low and high costs for insurance are easy - best case is just paying the premiums without using the insurance, worst case is premiums plus the out of pocket max.
 By using some simple scenarios, this spreadsheet allows you to guesstimate your costs in between these two extremes and pick your best option.
 
-_Sample data included is used to illustrate the use of the calculator, and bears no relation to actual plans or vendors. Replace with real plan data provided by your employer or exchange. 
+_Sample data included is used to illustrate the use of the calculator, and bears no relation to actual plans or vendors. Replace with real plan data provided by your employer or exchange._
 
 ## Instructions:
 
