@@ -35,7 +35,7 @@ _Sample data included is used to illustrate the use of the calculator, and bears
 7. This model does not attempt to model individual costs/limits within a family plan, but instead uses the family limits (assuming you entered these from the plan). A conservative cost estimate in other words.
 8. Where costs of usage and major expenses exceeds the OOP max, the max cost is used instead. 
 9. This model does not take into account employer HSA contributions for HDHP plans. You can manually add these to applicable plans as a credit to annual costs when available. 
-
+10. 10. Assumes a semi monthly payroll (2 paychecks a month) in order to calculate monthly and annual costs. If this is not your situation you need to adjust the cost per period or calculation in excel. 
 
 # Revisions
 
