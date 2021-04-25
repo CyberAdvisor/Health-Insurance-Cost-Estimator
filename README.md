@@ -28,7 +28,7 @@ _Sample data included is used to illustrate the use of the calculator, and bears
 
 1. This spreadsheet is designed for ballparking costs and risks, there is no such thing as perfect prediction.
 2. When it comes to predicting the future, less is more. The more variables you try to account for, the less accurate your prediction is likely to be past some point. It's a bell curve.
-3. Make sure to enter and consider the Out of Area costs and the Provider network scope. These model the risks associated with each plan.
+3. Make sure to enter and consider the Out of Area limits and the Provider network scope. These model the risks associated with each plan.
 4. Risk comes from costs associated with out of network charges. These can occur in emergency situations where you have no choice of the provider being used (air ambulance and ER are notorious examples)
 5. The low cost estimate is based on premiums and just the usage you estimated. High cost is premiums, usage and the plan examples costs. 
 6. This model assumes usage costs are all in network. It does not attempt to estimate out of network costs. 
