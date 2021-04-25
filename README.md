@@ -6,6 +6,7 @@ This project is licensed under the terms of the MIT license.
 Developed by Michael Lines
 
 Please use Github Issues and Discussions to report problems or ask any questions. 
+Also, if you would like to be notified of new releases or updates, use Github Watch button at the top of this page.
 
 ## Overview:
 
