@@ -5,7 +5,7 @@ This project is licensed under the terms of the MIT license.
 
 Developed by Michael Lines
 
-Please use Github to report any errors or ask any questions. 
+Please use Github Issues to report any errors or ask any questions. 
 
 Revision History
 4/25/21 - Version 1.0
