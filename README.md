@@ -5,10 +5,7 @@ This project is licensed under the terms of the MIT license.
 
 Developed by Michael Lines
 
-Please use Github Issues to report any errors or ask any questions. 
-
-Revision History
-4/25/21 - Version 1.0
+Please use Github Issues and Discussions to report problems or ask any questions. 
 
 ## Overview:
 
@@ -38,3 +35,9 @@ _Sample data included is used to illustrate the use of the calculator, and bears
 7. This model does not attempt to model individual costs/limits within a family plan, but instead uses the family limits (assuming you entered these from the plan). A conservative cost estimate in other words.
 8. Where costs of usage and major expenses exceeds the OOP max, the max cost is used instead. 
 9. This model does not take into account employer HSA contributions for HDHP plans. You can manually add these to applicable plans as a credit to annual costs when available. 
+
+
+# Revisions
+
+* 4/25/21 - Version 1.0 - First Release
+
